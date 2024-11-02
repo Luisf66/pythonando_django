@@ -1,0 +1,26 @@
+# Sistema operacional
+__pycache__/
+*.py[cod]
+*~
+*.swp
+.DS_Store
+
+# Banco de dados local
+db.sqlite3
+
+# Arquivos de migração (não obrigatórios, mas recomendados)
+**/migrations/
+
+# Arquivos Django de cache e logs
+*.log
+*.pot
+*.pyc
+
+# Arquivos de ambiente virtual
+venv/
+env/
+*.env
+
+# Configurações do IDE (caso você utilize)
+.vscode/
+.idea/
